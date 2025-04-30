@@ -13,5 +13,7 @@ The following points should still be extended:
 - Potentially other well known techniques in addition to MAE and CLIP, like DINOv2, can be mentioned, although previous work demonstrated that this was not the favourable SSL model choice.
 - Models like Satlas by AllenAI (AI2) should maybe be mentioned, and why this segmentation-driven approach is less relevant to the suit of target tasks.
 
-# Probabilistic Convergent Cross Mapping with Signature Kernels
+## Probabilistic Convergent Cross Mapping with Signature Kernels
+
+See the following repository for the code to reproduce experiments: [kernel_CCM](https://github.com/kimbente/kernel_CCM)
 
